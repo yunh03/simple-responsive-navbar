@@ -1,2 +1,5 @@
 # responsive-navbar
-HTML, CSS, JS
+Responsive navbar using HTML, CSS, JS
+
+## Demo
+Links
