@@ -6,4 +6,4 @@ It's simple to add a Navbar to your own site.
 After downloading the file, you can copy the contents of the index.html, style.cs, app.js file, or copy the file to use.
 
 ## Demo
-https://yunsol.kr/demo/responsive-navbar
+https://dev.yunsol.kr/github-demo/simple-responsive-navbar
